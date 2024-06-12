@@ -1,1 +1,1 @@
-CURRENTLY DEVELOPPING
+currently under development
